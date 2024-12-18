@@ -1,0 +1,7 @@
+.vs/
+Raytracer/bin
+Raytracer/obj
+Raytracer.Tests/bin
+Raytracer.Tests/obj
+Raytracer.SceneTests/bin
+Raytracer.SceneTests/obj
